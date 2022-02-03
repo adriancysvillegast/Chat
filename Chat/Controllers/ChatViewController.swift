@@ -26,7 +26,7 @@ class ChatViewController: UIViewController{
         tableView.dataSource = self
 //         to reuse the cell
         tableView.register(UINib(nibName: K.cellNibName, bundle: nil), forCellReuseIdentifier: K.cellIdentifier)
-
+  
 //        update
         loadMessages()
         
