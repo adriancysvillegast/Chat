@@ -2,6 +2,9 @@
 The Flash Messages is a App to be in touch with your close friends with this app i used FireBase for create and validate of users, as well save the message.
 I used realm to manipulation of the data in this app and IQKeyboardManagerSwift to add a better Design UX 
 
+This project was made following the Complete iOS App Development Bootcamp of The London App Brewery 
+
+
 # ScreenShots:
 
 
